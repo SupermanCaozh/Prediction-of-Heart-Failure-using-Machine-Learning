@@ -9,18 +9,18 @@ habits, blood test results and some other basic health indicators while taking a
 ### Data Set
 The folder *data* contains all the essential data files you need. The file Xtab1.csv contains medical data stored as a table. Each line/row corresponds to a patient and each column to a measured attribute/variable/feature. A description of each variable is given below:
 
-|age |Age (let's suppose that the age can be well over 100 for this particular nation :))|
-|blood pressure |Systolic blood pressure (in mmHg)|
-|blood type |Blood type (antigens and rhesus)|
-|cholesterol |Level of LDL cholesterol (”bad cholesterol”) in blood (in mg/dL)|
-|hemoglobin |Level of hemoglobin in blood (in g/dL)|
-|physical activity |If the patient practices a physical activity on a regular basis (yes - no)|
-|sarsaparilla |Consumption of sarsaparilla leaves (very low - low - moderate - high - very high)|
-|liquor |Consumption of liquor (very low - low - moderate - high - very high)|
-|donuts |Consumption of donuts (very low - low - moderate - high - very high)|
-|temperature |Body temperature at the time of the visit by Doctor Smurf (in °C)|
-|testosterone |Level of testosterone in blood (in ng/dL)|
-|weight |Body mass (in grams)|
+| age | Age (let's suppose that the age can be well over 100 for this particular nation :))|
+| blood pressure | Systolic blood pressure (in mmHg)|
+| blood type | Blood type (antigens and rhesus)|
+| cholesterol | Level of LDL cholesterol (”bad cholesterol”) in blood (in mg/dL)|
+| hemoglobin | Level of hemoglobin in blood (in g/dL)|
+| physical activity | If the patient practices a physical activity on a regular basis (yes - no)|
+| sarsaparilla | Consumption of sarsaparilla leaves (very low - low - moderate - high - very high)|
+| liquor | Consumption of liquor (very low - low - moderate - high - very high)|
+| donuts | Consumption of donuts (very low - low - moderate - high - very high)|
+| temperature | Body temperature at the time of the visit by Doctor Smurf (in °C)|
+| testosterone | Level of testosterone in blood (in ng/dL)|
+| weight | Body mass (in grams)|
 
 The risk of developping a heart failure within the next ten years is the target variable; it is stored
 in the Y1.csv file. The indices match those of Xtab1.csv.
