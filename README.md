@@ -8,6 +8,7 @@ habits, blood test results and some other basic health indicators while taking a
 
 ### Data Set
 The folder *data* contains all the essential data files you need. The file Xtab1.csv contains medical data stored as a table. Each line/row corresponds to a patient and each column to a measured attribute/variable/feature. A description of each variable is given below:
+
 |age |Age (let's suppose that the age can be well over 100 for this particular nation :))|
 |blood pressure |Systolic blood pressure (in mmHg)|
 |blood type |Blood type (antigens and rhesus)|
